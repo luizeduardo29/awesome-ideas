@@ -215,7 +215,7 @@
 1. Is it a good photo - Site de curadoria de fotos isitagoodphoto.com
 1. Valendo - Plugin para marcação de tempo no chrome
 1. Alma leve - Aplicativo para desabafar com um desconhecido
-1. Alugar ou Comprar - Responda um quizz e saiba se é melhor alugar um imóvel ou comprar
+1. `Alugar ou Comprar - Responda um quizz e saiba se é melhor alugar um imóvel ou comprar  ----- Flutter (Em progresso)`
 1. Go to Codepen - Pacote nodejs para subir código para code pen
 1. Rachadinha - Aplicativo para controle de dívidas entre amigos
 1. Dicpedia - Site para criação colaborativa de dicionários
